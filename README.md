@@ -1,4 +1,4 @@
-# 📦 Dashboard (`version 2`)
+# Heat map
 
 This is a dashboard app created in Python using Streamlit.
 
